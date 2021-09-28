@@ -1,0 +1,25 @@
+{
+    "month": 1,
+    "year": 1,
+    "numDays": 2,
+    "events": [
+        {
+            "completion": false,
+            "endDate": 1,
+            "name": "name1",
+            "description": "desc",
+            "startTime": "1",
+            "endTime": "2",
+            "startDate": 1
+        },
+        {
+            "completion": false,
+            "endDate": 2,
+            "name": "name2",
+            "description": "desc",
+            "startTime": "1",
+            "endTime": "2",
+            "startDate": 2
+        }
+    ]
+}
